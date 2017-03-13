@@ -7,7 +7,7 @@ This is part of the project of Hacksters BCN:
 
 https://www.hackster.io/bcn_labs/bcnlabs-ble-bot-9000-with-intel-arduino-101-6e4207
 
-**DOCUMENTATON:**
+**DOCUMENTATION:**
 
 Getting Started with Bluetooth Low Energy (BLE)
 https://www.hackster.io/monica/getting-started-with-bluetooth-low-energy-ble-ab4c94
