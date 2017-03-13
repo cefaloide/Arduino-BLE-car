@@ -1,4 +1,4 @@
-# (Under construction) Arduino-BLE-car
+# Arduino-BLE-car
 Ardduino101 car controlled via BLE (Bluetooth Low Energy)
 
 This is part of the project of Hacksters BCN:
